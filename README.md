@@ -79,7 +79,7 @@ CONFIGURATION
 
 ### Configuration Environments
 
-See comments in .nev.example file
+See comments in .env.example file
 
 ### Database
 
